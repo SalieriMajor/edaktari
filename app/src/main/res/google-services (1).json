@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "93158519450",
+    "firebase_url": "https://checkup-1055a.firebaseio.com",
+    "project_id": "checkup-1055a",
+    "storage_bucket": "checkup-1055a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93158519450:android:3249acb0d3e22ca9",
+        "android_client_info": {
+          "package_name": "com.epicodus.checkup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93158519450-osp2j4bor9qvdk3dbfm0ibcrbv2n30r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATBm2x6JfXDWgLQce7QnHlVlhPppR4FQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
